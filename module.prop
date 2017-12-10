@@ -1,0 +1,7 @@
+id=bypass_safemedia
+name=Bypass Safe Media
+version=v1
+versionCode=1
+author=topjohnwu
+description=Remove the safe audio volume warning message
+template=1400
